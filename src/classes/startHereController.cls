@@ -1,5 +1,5 @@
 public class startHereController {
-
+//test line added...
     public PageReference initPageAction() {
         if (this.theXMlDom == null) {
             PageReference homePage= new PageReference('/home/home.jsp');
