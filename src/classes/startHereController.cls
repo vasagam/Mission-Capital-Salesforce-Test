@@ -9,7 +9,7 @@ public class startHereController {
             return null;
         }
     }
-
+//second try
     // Class variables
     XmlStreamReader reader;
     xmldom theXMLDom;        
